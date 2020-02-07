@@ -12,20 +12,20 @@ end
 def pioneer
 
 actress_hash = {:name => "Grace Hopper"}
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
-end
 
 end
 
 def id_generator
 
-fresh_hash = {id: 3}
+#fresh_hash = {id: 3}
   # return a hash with a key :id assigned to positive integer
+end
+
 end
 
 def my_hash_creator(key, value)
 
-fresh_hash = {key => value}
+#fresh_hash = {key => value}
 
 end
 
