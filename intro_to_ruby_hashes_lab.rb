@@ -31,7 +31,7 @@ end
 def read_from_hash(hash, key)
 
 
-if hash
+if hash[key]
 return hash["key"]
 end
 
