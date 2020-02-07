@@ -30,14 +30,14 @@ end
 
 def read_from_hash(hash, key)
 
-if hash 
+if hash[key]
 
-puts value
-
+else
+  puts nil
 end
 
-nil
-  # return the correct value using the hash and key parameters
+return key[value]  
+
 end
 
 def update_counting_hash(hash, key)
