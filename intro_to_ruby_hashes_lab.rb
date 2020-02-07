@@ -35,7 +35,9 @@ x = key
 if hash["key"]
   puts x
 end
-puts x
+
+return x[value]
+
 end
 
 def update_counting_hash(hash, key)
