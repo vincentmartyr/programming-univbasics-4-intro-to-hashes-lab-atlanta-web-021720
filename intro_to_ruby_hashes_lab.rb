@@ -30,11 +30,10 @@ end
 
 def read_from_hash(hash, key)
 
-hash[key]
+hash
 
-return hash["key"]
+return hash[key]
 
-end
 
 end
 
