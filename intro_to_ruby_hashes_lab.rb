@@ -31,11 +31,9 @@ end
 def read_from_hash(hash, key)
 
 
-if hash["key"]
-puts nil  
+if hash
+return hash["key"] 
 end
-
-return hash["key"]
 
 end
 
