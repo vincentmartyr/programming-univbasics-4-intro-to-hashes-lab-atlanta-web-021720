@@ -24,6 +24,8 @@ fresh_hash = {id: 3}
 end
 
 def my_hash_creator(key, value)
+
+fresh_hash = {"key" => "value"}
   # return a hash that includes the key and value parameters passed into this method
 end
 
