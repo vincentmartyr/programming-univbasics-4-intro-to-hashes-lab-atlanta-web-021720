@@ -30,9 +30,10 @@ end
 
 def read_from_hash(hash, key)
 
+hash[key]
 
-if hash[key]
 return hash["key"]
+
 end
 
 end
