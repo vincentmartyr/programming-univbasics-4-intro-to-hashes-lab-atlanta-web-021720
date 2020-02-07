@@ -29,6 +29,14 @@ fresh_hash = {key => value}
 end
 
 def read_from_hash(hash, key)
+
+if hash 
+
+puts value 
+
+end
+
+nil  
   # return the correct value using the hash and key parameters
 end
 
