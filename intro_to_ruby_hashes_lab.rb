@@ -30,13 +30,11 @@ end
 
 def read_from_hash(hash, key)
 
-if hash[key]
+x = key[value]
 
-else
-  puts nil
+if hash["key"]
+  puts x
 end
-
-return key[value]
 
 end
 
