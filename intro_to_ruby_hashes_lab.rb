@@ -32,7 +32,7 @@ def read_from_hash(hash, key)
 
 
 if hash
-return hash["key"] 
+return hash["key"]
 end
 
 end
