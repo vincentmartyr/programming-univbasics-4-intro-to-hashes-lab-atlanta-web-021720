@@ -30,7 +30,7 @@ end
 
 def read_from_hash(hash, key)
 
-x = key[value]
+x = key[""]
 
 if hash["key"]
   puts x
