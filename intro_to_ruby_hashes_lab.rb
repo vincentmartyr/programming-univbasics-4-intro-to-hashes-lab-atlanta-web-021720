@@ -5,7 +5,7 @@ end
 
 def my_hash
 
-  fresh_hash = {basketball => "Spaulding"}
+  fresh_hash = {"basketball" => "Spaulding"}
   # return a valid hash with any key/value pair of your choice
 end
 
