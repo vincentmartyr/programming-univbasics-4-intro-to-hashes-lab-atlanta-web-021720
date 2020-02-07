@@ -32,11 +32,11 @@ def read_from_hash(hash, key)
 
 if hash 
 
-puts value 
+puts value
 
 end
 
-nil  
+nil
   # return the correct value using the hash and key parameters
 end
 
