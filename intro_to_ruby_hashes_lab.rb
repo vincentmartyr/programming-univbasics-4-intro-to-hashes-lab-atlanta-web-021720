@@ -24,7 +24,7 @@ end
 
 def my_hash_creator(key, value)
 
-#fresh_hash = {key => value}
+fresh_hash = {key => value}
 
 end
 
